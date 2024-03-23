@@ -1,0 +1,21 @@
+1343571 (HEAD -> master, origin/master, bug2) HEAD@{0}: checkout: moving from bug2 to master
+1343571 (HEAD -> master, origin/master, bug2) HEAD@{1}: checkout: moving from master to bug2
+1343571 (HEAD -> master, origin/master, bug2) HEAD@{2}: merge bug2: Fast-forward
+e1b3c8e (origin/bug1, bug1) HEAD@{3}: checkout: moving from bug2 to master
+1343571 (HEAD -> master, origin/master, bug2) HEAD@{4}: rebase (finish): returning to refs/heads/bug2
+1343571 (HEAD -> master, origin/master, bug2) HEAD@{5}: rebase (continue): Call method makeBigStringFrom in main class
+0eb7262 HEAD@{6}: rebase (pick): Fix wrong condition in makeBigStringFrom
+e1b3c8e (origin/bug1, bug1) HEAD@{7}: rebase (start): checkout master
+a4b367b (origin/bug2) HEAD@{8}: checkout: moving from master to bug2
+e1b3c8e (origin/bug1, bug1) HEAD@{9}: merge bug1: Fast-forward
+7694b4d HEAD@{10}: checkout: moving from bug2 to master
+a4b367b (origin/bug2) HEAD@{11}: commit: Call method makeBigStringFrom in main class
+cf07ed5 HEAD@{12}: checkout: moving from bug1 to bug2
+e1b3c8e (origin/bug1, bug1) HEAD@{13}: commit: Call method filterOddLength in main class
+404a5d2 HEAD@{14}: checkout: moving from bug2 to bug1
+cf07ed5 HEAD@{15}: commit: Fix wrong condition in makeBigStringFrom
+7694b4d HEAD@{16}: checkout: moving from bug1 to bug2
+404a5d2 HEAD@{17}: commit: Fix wrong condition in filterOddLengthStrings
+7694b4d HEAD@{18}: checkout: moving from master to bug1
+7694b4d HEAD@{19}: commit: Add starter code
+468fc50 HEAD@{20}: commit (initial): Initial commit
